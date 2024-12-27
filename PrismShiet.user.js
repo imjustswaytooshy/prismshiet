@@ -7,6 +7,7 @@
 // @match        https://online-filmek.ac/*
 // @grant        none
 // @run-at       document-start
+// @license      MIT
 // ==/UserScript==
 
 (function () {
