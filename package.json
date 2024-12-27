@@ -1,0 +1,25 @@
+{
+    "name": "prismshiet",
+    "version": "1.1.0",
+    "description": "PrismShiet is a **Violentmonkey** userscript that removes adblock detection warnings on [online-filmek.ac](https://online-filmek.ac/).",
+    "main": "PrismShiet.user.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/imjustswaytooshy/prismshiet.git"
+    },
+    "keywords": [],
+    "author": "prism",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/imjustswaytooshy/prismshiet/issues"
+    },
+    "homepage": "https://github.com/imjustswaytooshy/prismshiet#readme",
+    "devDependencies": {
+        "@eslint/js": "^9.17.0",
+        "eslint": "^9.17.0",
+        "globals": "^15.14.0"
+    }
+}
